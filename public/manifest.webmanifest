@@ -1,0 +1,13 @@
+{
+  "name": "Control de Viajes",
+  "short_name": "ControlViajes",
+  "description": "Registro de salidas por viaje en bancos de materiales pétreos. Funciona offline y exporta CSV.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1E3A8A",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
